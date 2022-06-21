@@ -19,7 +19,7 @@
 */
 
 /*!
- * ScrollSmoother 3.10.4
+ * ScrollTrigger 3.10.4
  * https://greensock.com
  *
  * @license Copyright 2008-2022, GreenSock. All rights reserved.
@@ -29,10 +29,20 @@
 */
 
 /*!
- * ScrollTrigger 3.10.4
+ * SplitText: 3.10.4
  * https://greensock.com
  *
  * @license Copyright 2008-2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * strings: 3.10.4
+ * https://greensock.com
+ *
+ * Copyright 2008-2022, GreenSock. All rights reserved.
  * Subject to the terms at https://greensock.com/standard-license or for
  * Club GreenSock members, the agreement issued with that membership.
  * @author: Jack Doyle, jack@greensock.com
