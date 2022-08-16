@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/ThreeJS_Chairs/static/css/main.6d8511b6.css",
-    "main.js": "/ThreeJS_Chairs/static/js/main.d36ab7a1.js",
+    "main.css": "/ThreeJS_Chairs/static/css/main.3f63ea22.css",
+    "main.js": "/ThreeJS_Chairs/static/js/main.0b5384a3.js",
+    "static/media/PilcrowRounded-Variable.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Variable.465e1cb3a5c2b8c7b1a9.ttf",
+    "static/media/PilcrowRounded-Medium.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Medium.5d33f05fab5d61b60992.ttf",
+    "static/media/PilcrowRounded-Semibold.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Semibold.1f464cc8111c078f7f9a.ttf",
+    "static/media/PilcrowRounded-Bold.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Bold.6e59b71d3cfa02a6e440.ttf",
+    "static/media/PilcrowRounded-Heavy.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Heavy.3bbe3ffd540d2c962d83.ttf",
+    "static/media/PilcrowRounded-Regular.ttf": "/ThreeJS_Chairs/static/media/PilcrowRounded-Regular.61359d476baea8f70d59.ttf",
+    "static/media/PilcrowRounded-Variable.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Variable.71c075d98768c2f2999e.woff2",
+    "static/media/PilcrowRounded-Semibold.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Semibold.8c24309d6d4f648594a4.woff",
+    "static/media/PilcrowRounded-Variable.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Variable.fb3c3fd172f6a54b4fb5.woff",
+    "static/media/PilcrowRounded-Medium.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Medium.f9bb86c79e89e191ad8a.woff",
+    "static/media/PilcrowRounded-Bold.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Bold.b17337775ecf9ee1d08f.woff",
+    "static/media/PilcrowRounded-Heavy.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Heavy.613f676e75fa95b66e6a.woff",
+    "static/media/PilcrowRounded-Regular.woff": "/ThreeJS_Chairs/static/media/PilcrowRounded-Regular.f2d0dd174844165fd70e.woff",
+    "static/media/PilcrowRounded-Semibold.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Semibold.bf9fbf40fd922dc73b35.woff2",
+    "static/media/PilcrowRounded-Medium.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Medium.12c3c9f1837e1c3d1f03.woff2",
+    "static/media/PilcrowRounded-Bold.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Bold.e0a4e5bf1b234a0febd8.woff2",
+    "static/media/PilcrowRounded-Heavy.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Heavy.19a1cbe65cbef10a71d2.woff2",
+    "static/media/PilcrowRounded-Regular.woff2": "/ThreeJS_Chairs/static/media/PilcrowRounded-Regular.fe2ef4dbabb45729b332.woff2",
     "index.html": "/ThreeJS_Chairs/index.html",
-    "main.6d8511b6.css.map": "/ThreeJS_Chairs/static/css/main.6d8511b6.css.map",
-    "main.d36ab7a1.js.map": "/ThreeJS_Chairs/static/js/main.d36ab7a1.js.map"
+    "main.3f63ea22.css.map": "/ThreeJS_Chairs/static/css/main.3f63ea22.css.map",
+    "main.0b5384a3.js.map": "/ThreeJS_Chairs/static/js/main.0b5384a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d8511b6.css",
-    "static/js/main.d36ab7a1.js"
+    "static/css/main.3f63ea22.css",
+    "static/js/main.0b5384a3.js"
   ]
 }
